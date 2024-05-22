@@ -1,0 +1,25 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"CAMISA RAYAS ALGODON",
+            "image":"https://static.zara.net/assets/public/9d62/d0a0/4b304589a629/9432af313f21/03277401084-a1/03277401084-a1.jpg?ts=1715868248838&w=240"
+        },
+        {
+            "id":2,
+            "name":"CAMISA  ALGODON",
+            "image":"https://static.zara.net/assets/public/2ce9/b27e/fe834d3eafc5/ae4c79caefe4/05107054942-p/05107054942-p.jpg?ts=1715781069538&w=563"
+        },
+        {
+            "id":3,
+            "name":"RAYAS ALGODON",
+            "image":"https://static.zara.net/assets/public/c6c3/d1f8/3f4f411d9432/d74e9e0009a0/03037047712-p/03037047712-p.jpg?ts=1712307068177&w=563"
+        },
+        {
+            "id":4,
+            "name":"BUSO WHITE",
+            "image":"https://static.zara.net/assets/public/bb71/b7da/592440f183f3/cc9c5c40b2c0/03665429020-a1/03665429020-a1.jpg?ts=1715859193890&w=563"
+        }
+    ]
+    
+}
